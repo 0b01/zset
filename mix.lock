@@ -1,0 +1,3 @@
+%{"rbtree": {:hex, :rbtree, "0.1.6", "879252e571c606ab02219a95389e1d2f5a21de8bb15fa2709c1f5106dd50d05b", [:mix], [], "hexpm"},
+  "red_black_tree": {:git, "https://github.com/SenecaSystems/red_black_tree.git", "e2de845ecb8b6130dc7137af8a04128d09119869", []},
+  "sorted_set": {:git, "https://github.com/SenecaSystems/sorted_set.git", "122ad29fafe016ebf576a9baeac70459c2b355df", []}}
